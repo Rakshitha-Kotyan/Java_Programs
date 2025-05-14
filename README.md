@@ -8,7 +8,7 @@
 - **Arraylist 1 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Arraylist1.jpg)
 - **Arraylist 2 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Arraylist2.jpg)
 - **Arraylist 3 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Arraylist3.jpg)
-- **Arraylist 4 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Arraylist4.jpg)
+- **Arraylist 4 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Ararylist4.jpg)
 - **Arraylist 5 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Arraylist5.jpg)
 # LinkedList_Exercises
 - **Linkedlist 6 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Linkedlist1.png)
