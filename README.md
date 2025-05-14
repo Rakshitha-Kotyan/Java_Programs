@@ -17,3 +17,6 @@
 - **Linkedlist 8 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Linkedlist8.png)
 - **Linkedlist 9 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Linkedlist9.png)
 - **Linkedlist 10 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Linkedlist10.png)
+# HashMap_Exercises
+# TreeMap_Exercises
+# LinkedHashMap_Exercises
