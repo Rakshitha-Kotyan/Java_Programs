@@ -6,6 +6,8 @@
 - **Program 2 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_2_output.png)
 - **Program 3a** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_3a.java)
 - **Program 3a Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_3a_output.png)
+- **Program 3b** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_3b.java)
+- **Program 3b Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_3b_output.png)
 
 # Exercise_outputs
 # ArrayList_Exercises
@@ -46,4 +48,18 @@
 - **StringFunction 8 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/s8.png)
 - **StringFunction 9 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/s9.png)
 - **StringFunction 10 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/s10.png)
-
+# String
+- **String 1 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/sb1.png)
+- **String 2 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/sb2.png)
+# Joining_Strings
+- **StringJoin 3 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/sb3.png)
+- **StringJoin 4 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/sb4.png)
+# Additional_String-methods
+- **StringMethods 5 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/sb5.png)
+- **StringMethods 6 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/sb6.png)
+# StringBuffer
+- **StringBuffer 7 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/sb7.png)
+- **StringBuffer 8 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/sb8.png)
+# StringBuilder
+- **StringBuilder 9 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/sb9.png)
+- **StringBuilder 10 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/sb10.png)
