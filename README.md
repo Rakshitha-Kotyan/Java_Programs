@@ -3,6 +3,7 @@
 - **Program 1** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_1.java)
 - **Program 1 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/P1.jpg)
 - **Program 2** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_2.java)
+- **Program 2 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_2_output.jpg)
 
 # Exercise_outputs
 # ArrayList_Exercises
