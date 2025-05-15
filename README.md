@@ -4,6 +4,7 @@
 - **Program 1 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/P1.jpg)
 - **Program 2** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_2.java)
 - **Program 2 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_2_output.png)
+- **Program 3a** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_3a.java)
 
 # Exercise_outputs
 # ArrayList_Exercises
@@ -33,6 +34,6 @@
 - **LinkedHashMap 10 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/LinkedHashMap1.png)
 - **LinkedHashMap 11 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/LinkedHashMap3.png)
 - **LinkedHashMap 12 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/LinkedHahMap4.png)
-
+# String_Operations
 
 
