@@ -20,7 +20,7 @@
 - **Linkedlist 10 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Linkedlist10.png)
 # HashMap_Exercises
 - **HashMap 1 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/HashMap1.png)
-- **HashMap 2 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/HashMap2.png)
+- **HashMap 2 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/HasMap2.png)
 - **HashMap 3 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/HashMap3.png)
 - **HashMap 4 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/HashMap4.png)
 # TreeMap_Exercises
