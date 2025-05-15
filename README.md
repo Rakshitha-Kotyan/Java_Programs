@@ -5,6 +5,7 @@
 - **Program 2** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_2.java)
 - **Program 2 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_2_output.png)
 - **Program 3a** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_3a.java)
+- **Program 3a Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_3a_output.png)
 
 # Exercise_outputs
 # ArrayList_Exercises
@@ -35,5 +36,14 @@
 - **LinkedHashMap 11 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/LinkedHashMap3.png)
 - **LinkedHashMap 12 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/LinkedHahMap4.png)
 # String_Operations
-
+- **StringFunction 1 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/s1.png)
+- **StringFunction 2 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/s2.png)
+- **StringFunction 3 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/s3.png)
+- **StringFunction 4 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/s4.png)
+- **StringFunction 5 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/s5.png)
+- **StringFunction 6 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/s6.png)
+- **StringFunction 7 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/s7.png)
+- **StringFunction 8 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/s8.png)
+- **StringFunction 9 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/s9.png)
+- **StringFunction 10 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/s10.png)
 
