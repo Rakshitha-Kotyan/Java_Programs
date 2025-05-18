@@ -1,4 +1,4 @@
-<%-- insert.jsp of 8c program%-->
+<%-- insert.jsp of 8c program--%>
 
 <%@ page import="java.sql.*" %>
 <%
