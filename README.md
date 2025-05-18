@@ -1,6 +1,6 @@
 # Java_Programs
 ## Program 1a(ListInterfaceDemo)
-- **ListInterfaceDemo->** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/ListInterface.java)
+- **ListInterfaceDemo->** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/ListInterfaceDemo.java)
   - **ListInterfaceDemo Output->** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/P1.jpg)
 
 ## Program_1b(ArrayList)
