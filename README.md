@@ -27,15 +27,14 @@
 ## Program 3a(StringOperatonsx)
   - **Program 3a** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_3a.java)
     - **Program 3a Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_3a_output.png)
-## Program 3b
-  - **Program 3b** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_3b.java)
-    - **Program 3b Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_3b_output.png)
+## Program 3b(String_Exercises)
+  - **String_Exercises** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/StringExercises.java)
+    - **IsNullOrEmpty Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/HashMap1.png)
+    - **CountOccurrences Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/HasMap2.png)
+    - **ReverseString Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/HashMap3.png)
+    - **PalindromeCheck Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/HashMap4.png)
+    - **RemoveWhitespace Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/HashMap5.png)
 
-### HashMap_Exercises
-- **HashMap 1 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/HashMap1.png)
-- **HashMap 2 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/HasMap2.png)
-- **HashMap 3 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/HashMap3.png)
-- **HashMap 4 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/HashMap4.png)
 # TreeMap_Exercises
 - **TreeMap 5 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/TreeMap1.png)
 - **TreeMap 6 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/TreeMap2.png)
