@@ -1,5 +1,5 @@
 # Java_Programs
-## Program 1a
+## Program 1a(ListInterfaceDemo)
 - **ListInterfaceDemo->** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/ListInterface.java)
   - **ListInterfaceDemo Output->** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/P1.jpg)
 
@@ -10,13 +10,13 @@
   - **SortColors Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Arraylist3.jpg)  
   - **ExtractColors Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Ararylist4.jpg)
   - **RemoveNthColor Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Arraylist5.jpg)
-## Program 1b(LinkedList)
-- **LinkedList->** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/LinkedList.java)
-  - **Linkedlist 6 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Linkedlist6.png)
-  - **Linkedlist 7 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Linkedlist7.png)
-  - **Linkedlist 8 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Linkedlist8.png)
-  - **Linkedlist 9 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Linkedlist9.png)
-  - **Linkedlist 10 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Linkedlist10.png)
+## Program 1b (LinkedList)
+  - **IterateFromPosition Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Linkedlist6.png)  
+  - **IterateReverseOrder Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Linkedlist7.png)  
+  - **InsertAtEnd Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Linkedlist8.png)  
+  - **DisplayElementsWithIndex Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Linkedlist9.png)  
+  - **SwapElements Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Linkedlist10.png)
+
 ## Program 2a
 - **Program 2** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_2.java)
 - **Program 2 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_2_output.png)
