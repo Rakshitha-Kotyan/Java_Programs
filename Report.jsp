@@ -1,4 +1,8 @@
-<%-- This is a JSP file of 8c --%>
+
+<%-- 8c. Develop a JDBC project using JSP to append the fields empno, empname and basicsalary
+into the table Emp of the database Employee by getting the fields through keyboard and
+Generate the report as follows for the TABLE Emp (Emp_NO , Emp_Name, Basicsalary ) using
+HTML and JSP to get the fields and display the results respectively This is a JSP file of 8c --%>
 
 
 <%@ page import="java.sql.*" %>
