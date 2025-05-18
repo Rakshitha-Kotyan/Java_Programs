@@ -1,6 +1,6 @@
-<%-9d. Develop a JDBC project using MySQL to delete the records in the table Emp of the database
+<%--9d. Develop a JDBC project using MySQL to delete the records in the table Emp of the database
 Employee by getting the name starting with ‘S’ through keyboard and Generate the report as
-follows using HTML and JSP to get the field and display the results respectively-%-->
+follows using HTML and JSP to get the field and display the results respectively--%>
 
 
 <%@ page import="java.sql.*" %>
