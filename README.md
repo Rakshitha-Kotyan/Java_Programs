@@ -93,7 +93,7 @@
   - **test** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/test.sql)
     - **update_coffee Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/8b.png)
 ## Program 8c(insertEmployee)
-  - **index** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/index.jsp)
+  - **index5** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/index5.html)
   - **insert** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/insert.jsp)
   - **Report** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Report.jsp)
     - **insertEmployee Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/8c.png)
