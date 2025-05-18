@@ -18,13 +18,17 @@
   - **DisplayElementsWithIndex Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Linkedlist9.png)  
   - **SwapElements Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Linkedlist10.png)
 
-## Program 2a
-- **Program 2** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_2.java)
-- **Program 2 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_2_output.png)
-- **Program 3a** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_3a.java)
-- **Program 3a Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_3a_output.png)
-- **Program 3b** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_3b.java)
-- **Program 3b Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_3b_output.png)
+## Program 2a(StringopertionsDemo)
+- **StringopertionsDemo** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/StringopertionsDemo.java)
+  - **StringopertionsDemo Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_2_output.png)
+## Program 2b(PerformanceTest)
+- **PerformanceTest** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/PerformanceTest.java)
+  - **PerformaceTest Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_3a.java)
+ 
+  - **Program 3a** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_3a.java)
+  - **Program 3a Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_3a_output.png)
+  - **Program 3b** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_3b.java)
+  - **Program 3b Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_3b_output.png)
 
 ### HashMap_Exercises
 - **HashMap 1 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/HashMap1.png)
