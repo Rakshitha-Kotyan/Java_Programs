@@ -11,6 +11,7 @@
   - **ExtractColors Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Ararylist4.jpg)
   - **RemoveNthColor Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Arraylist5.jpg)
 ## Program 1b (LinkedList)
+- **LinkedList->** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/LinkedList.java)
   - **IterateFromPosition Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Linkedlist6.png)  
   - **IterateReverseOrder Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Linkedlist7.png)  
   - **InsertAtEnd Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Linkedlist8.png)  
