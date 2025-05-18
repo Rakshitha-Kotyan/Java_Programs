@@ -19,8 +19,8 @@
   - **SwapElements Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Linkedlist10.png)
 
 ## Program 2a(StringopertionsDemo)
-- **StringopertionsDemo** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/StringopertionsDemo.java)
-  - **StringopertionsDemo Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_2_output.png)
+- **StringOpertionsDemo** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/StringOpertionsDemo.java)
+  - **StringOpertionsDemo Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_2_output.png)
 ## Program 2b(PerformanceTest)
 - **PerformanceTest** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/PerformanceTest.java)
   - **PerformaceTest Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_3a.java)
