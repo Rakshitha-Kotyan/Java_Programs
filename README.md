@@ -2,14 +2,7 @@
 
 - **Program 1** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_1.java)
 - **Program 1 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/P1.jpg)
-- **Program 2** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_2.java)
-- **Program 2 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_2_output.png)
-- **Program 3a** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_3a.java)
-- **Program 3a Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_3a_output.png)
-- **Program 3b** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_3b.java)
-- **Program 3b Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_3b_output.png)
-
-# Exercise_outputs
+- # Exercise_outputs
 # ArrayList_Exercises
 - **Arraylist 1 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Arraylist1.jpg)
 - **Arraylist 2 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Arraylist2.jpg)
@@ -22,6 +15,13 @@
 - **Linkedlist 8 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Linkedlist8.png)
 - **Linkedlist 9 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Linkedlist9.png)
 - **Linkedlist 10 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Linkedlist10.png)
+- **Program 2** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_2.java)
+- **Program 2 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_2_output.png)
+- **Program 3a** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_3a.java)
+- **Program 3a Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_3a_output.png)
+- **Program 3b** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_3b.java)
+- **Program 3b Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_3b_output.png)
+
 # HashMap_Exercises
 - **HashMap 1 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/HashMap1.png)
 - **HashMap 2 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/HasMap2.png)
