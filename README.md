@@ -24,11 +24,12 @@
 ## Program 2b(PerformanceTest)
 - **PerformanceTest** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/PerformanceTest.java)
   - **PerformaceTest Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_3a.java)
- 
+## Program 3a(StringOperatonsx)
   - **Program 3a** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_3a.java)
-  - **Program 3a Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_3a_output.png)
+    - **Program 3a Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_3a_output.png)
+## Program 3b
   - **Program 3b** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_3b.java)
-  - **Program 3b Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_3b_output.png)
+    - **Program 3b Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_3b_output.png)
 
 ### HashMap_Exercises
 - **HashMap 1 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/HashMap1.png)
