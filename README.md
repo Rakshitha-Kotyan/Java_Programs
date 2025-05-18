@@ -3,21 +3,21 @@
 - **ListInterfaceDemo->** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_1.java)
   - **ListInterfaceDemo Output->** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/P1.jpg)
 
-# Program_1b(ArrayList)
+## Program_1b(ArrayList)
 - **ArrayList->** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/ArrayList.java)
   - **SearchColor Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Arraylist1.jpg) 
   - **RemoveColor Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Arraylist2.jpg) 
   - **SortColors Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Arraylist3.jpg)  
   - **ExtractColors Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Ararylist4.jpg)
   - **RemoveNthColor Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Arraylist5.jpg)
-# Program 1b(LinkedList)
+## Program 1b(LinkedList)
 - **LinkedList->** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/LinkedList.java)
   - **Linkedlist 6 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Linkedlist6.png)
   - **Linkedlist 7 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Linkedlist7.png)
   - **Linkedlist 8 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Linkedlist8.png)
   - **Linkedlist 9 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Linkedlist9.png)
   - **Linkedlist 10 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Linkedlist10.png)
-# Program 2a
+## Program 2a
 - **Program 2** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_2.java)
 - **Program 2 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_2_output.png)
 - **Program 3a** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_3a.java)
@@ -25,7 +25,7 @@
 - **Program 3b** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_3b.java)
 - **Program 3b Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_3b_output.png)
 
-# HashMap_Exercises
+### HashMap_Exercises
 - **HashMap 1 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/HashMap1.png)
 - **HashMap 2 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/HasMap2.png)
 - **HashMap 3 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/HashMap3.png)
