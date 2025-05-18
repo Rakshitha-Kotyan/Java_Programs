@@ -1,14 +1,16 @@
 # Java_Programs
-
-- **Program 1** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_1.java)
-- **Program 1 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/P1.jpg)
+# Program 1a
+- **ListInterfaceDemo->** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_1.java)
+- **ListInterfaceDemo Output->** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/P1.jpg)
 - # Exercise_outputs
-# ArrayList_Exercises
-- **Arraylist 1 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Arraylist1.jpg)
-- **Arraylist 2 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Arraylist2.jpg)
-- **Arraylist 3 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Arraylist3.jpg)
-- **Arraylist 4 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Ararylist4.jpg)
-- **Arraylist 5 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Arraylist5.jpg)
+# Program_1b(ArrayList_Exercises)
+
+* **SearchColor Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Arraylist1.jpg) 
+* **RemoveColor Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Arraylist2.jpg) 
+* **SortColors Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Arraylist3.jpg)  
+* **ExtractColors Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Ararylist4.jpg)
+* **RemoveNthColor Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Arraylist5.jpg)
+# Program 1b(LinkedList_Exercises)
 # LinkedList_Exercises
 - **Linkedlist 6 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Linkedlist6.png)
 - **Linkedlist 7 Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Linkedlist7.png)
