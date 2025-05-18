@@ -6,10 +6,10 @@ display the concerned color whenever the specific tab is selected in the Pan*/
 import java.awt.Color;
 import javax.swing.*;
 
-public class ColorTabbedPane {
+public class ColorTabbedPane2 {
     JFrame frame;
 
-    ColorTabbedPane() {
+    ColorTabbedPane2() {
         frame = new JFrame("Color Tabs Example");
 
         JPanel cyanPanel = new JPanel();
@@ -35,6 +35,6 @@ public class ColorTabbedPane {
     }
 
     public static void main(String[] args) {
-        new ColorTabbedPane();
+        new ColorTabbedPane2();
     }
 }
