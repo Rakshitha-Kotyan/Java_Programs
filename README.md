@@ -1,8 +1,8 @@
 # Java_Programs
-# Program 1a
+## Program 1a
 - **ListInterfaceDemo->** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_1.java)
   - **ListInterfaceDemo Output->** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/P1.jpg)
-- # Exercise_outputs
+
 # Program_1b(ArrayList)
 - **ArrayList->** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/ArrayList.java)
   - **SearchColor Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Arraylist1.jpg) 
