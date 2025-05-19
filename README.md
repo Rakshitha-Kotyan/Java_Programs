@@ -4,7 +4,7 @@
   - **ListInterfaceDemo Output->** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/P1.jpg)
 
 ## Program_1b(ArrayList)
-- **ArrayList->** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/ArrayList.java)
+- **ArrayList->** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/ArrayList)
   - **SearchColor Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Arraylist1.jpg) 
   - **RemoveColor Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Arraylist2.jpg) 
   - **SortColors Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Arraylist3.jpg)  
