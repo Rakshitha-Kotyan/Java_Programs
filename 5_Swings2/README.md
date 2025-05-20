@@ -1,8 +1,8 @@
-### 5a)FactorialCalcultorDemo Output
-  -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/6_Servlets/6a_FactorialCalculatorDemo/6a.png)
-### 5b)CookieServlet Output
-  -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/6_Servlets/6b_CookieServlet/6b.png)
-### 5c)Prime_Servlet Output
-  -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/6_Servlets/6c_PrimeServlet/6c.png)
-### 5d)Prime_Servlet Output
-  -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/6_Servlets/6c_PrimeServlet/6c.png)
+### 5a)JListExample Output
+  -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/5_Swings2/5a_JListExample/5a.png)
+### 5b)TabbedPaneExample Output
+  -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/5_Swings2/5b_TabbedPaneExample/5b.png)
+### 5c)CountryCapitalList Output
+  -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/5_Swings2/5c_CountryCapitalList/5c.png)
+### 5d)ColorTabbedPane2 Output
+  -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/5_Swings2/5d_ColorTabbedPane2/5d.png)
