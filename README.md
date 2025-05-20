@@ -87,7 +87,7 @@
   - **insert_employee** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/insert_employee)
     - **insertEmployee Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/8c.png)
 ## 8d(update_employee)
-  - **update_employee** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/update_emplyee.jsp)
+  - **update_employee** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/update_emplyee)
     - **update_employee Output** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/8d.png)   
 ## 9a(delete_coffee)
   - **delete_coffee** -(https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/delete_coffee)
