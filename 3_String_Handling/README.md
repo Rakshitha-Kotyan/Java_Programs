@@ -1,5 +1,5 @@
-### **3a)StringOperations Output** - ()
-### **3b)StringOperations Output** - ()
+### **3a)StringOperations Output** - (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/3_String_Handling/3a_StringOperations/2a.png)
+### **3b)StringOperations Output**
   - **IsNullOrEmpty Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/s1.png)
   - **CountOccurrences Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/s2.png)
   - **ReverseString Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/s3.png)
