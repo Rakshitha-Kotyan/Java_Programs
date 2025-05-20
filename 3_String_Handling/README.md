@@ -1,11 +1,11 @@
-### **3a)StringOperations Output** - (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/3_String_Handling/3a_StringOperations/2a.png)
+### 3a)StringOperations Output - (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/3_String_Handling/3a_StringOperations/2a.png)
 ### **3b)StringOperations Output**
-  - **IsNullOrEmpty Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/s1.png)
-  - **CountOccurrences Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/s2.png)
-  - **ReverseString Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/s3.png)
-  - **PalindromeCheck Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/s4.png)
-  - **RemoveWhitespace Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/s5.png)
-### **3c)StringOperations Output** - ()
+  - **IsNullOrEmpty Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/3_String_Handling/3b_StringExercises1/s1.png)
+  - **CountOccurrences Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/3_String_Handling/3b_StringExercises1/s2.png)
+  - **ReverseString Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/3_String_Handling/3b_StringExercises1/s3.png)
+  - **PalindromeCheck Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/3_String_Handling/3b_StringExercises1/s4.png)
+  - **RemoveWhitespace Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/3_String_Handling/3b_StringExercises1/s5.png)
+### **3c)StringOperations Output** - 
   - **CapitalizeWords Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/s6.png)
   - **Truncate Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/s7.png)
   - **IsNumeric Output** – (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/s8.png)
